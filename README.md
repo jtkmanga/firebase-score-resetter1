@@ -1,0 +1,1 @@
+# firebase-score-resetter1
